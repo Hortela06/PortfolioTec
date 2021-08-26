@@ -1,7 +1,7 @@
 # Portfolio
-*[Link Obra](BD/Obras/)
+*[Banco de Dados](BD/Obras/)
 
-*[Link Cassino](DesenvolvimentoDeSistema/CassinoJokers/)
+*[Desenvolvimento de Sistema](DesenvolvimentoDeSistema/CassinoJokers/)
 
-*[Link AppVideo](DevApp/AppVideo/)
+*[Programação de Aplicativos](DevApp/AppVideo/)
 
